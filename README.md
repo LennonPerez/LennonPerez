@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lennon</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lennonperez" alt="lennonperez" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lennonperez2000" target="blank"><img src="https://img.shields.io/twitter/follow/lennonperez2000?logo=twitter&style=for-the-badge" alt="lennonperez2000" /></a> </p>
-
 - 🔭 I’m currently working on [El Dorado App](https://app.eldorado.io/)
 
-- 👨‍💻 All of my projects are available at [https://lennonart.dev/](https://lennonart.dev/)
+- 👨‍💻 All of my projects are available at [lennonart.dev/](https://lennonart.dev/)
 
 - 💬 Ask me about **Flutter, React, Typescript**
 
 - 📫 How to reach me **lenonart14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ts0r-bIi113vWJWhB8G1Rs9eRIlO7Uai/view?usp=sharing](https://drive.google.com/file/d/1Ts0r-bIi113vWJWhB8G1Rs9eRIlO7Uai/view?usp=sharing)
+- 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1Ts0r-bIi113vWJWhB8G1Rs9eRIlO7Uai/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
