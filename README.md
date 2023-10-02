@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [El Dorado App](https://app.eldorado.io/)
 
-- 👨‍💻 All of my projects are available at [lennonart.dev/](https://lennonart.dev/)
+- 👨‍💻 All of my projects are available at [lennonart.dev](https://lennonart.dev/)
 
 - 💬 Ask me about **Flutter, React, Typescript**
 
