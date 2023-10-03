@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [lennonart.dev](https://lennonart.dev/)
 
-- 💬 Ask me about **Flutter, React, Typescript**
-
 - 📫 How to reach me **lenonart14@gmail.com**
 
 - 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1Ts0r-bIi113vWJWhB8G1Rs9eRIlO7Uai/view?usp=sharing)
