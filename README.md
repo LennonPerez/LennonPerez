@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lennon</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate Senior frontend developer based on Argentina</h3>
 
 - 🔭 I’m currently working on [El Dorado App](https://app.eldorado.io/)
 
 - 👨‍💻 All of my projects are available at [lennonart.dev](https://lennonart.dev/)
 
-- 📫 How to reach me **lenonart14@gmail.com**
+- 📫 How to reach me **lennon.ar.perez@gmail.com**
 
 - 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1Ts0r-bIi113vWJWhB8G1Rs9eRIlO7Uai/view?usp=sharing)
 
